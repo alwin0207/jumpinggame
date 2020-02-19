@@ -1,0 +1,23 @@
+.wallstyle {
+    position: absolute;
+    bottom: 0px;
+    width: 10px;
+    height: 50px;
+    background-color: black;
+}
+
+.playerstyle {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
+
+#gamepalet{
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+    height: 400px;
+    border: 1px solid red;
+    background-color: green;    
+}
